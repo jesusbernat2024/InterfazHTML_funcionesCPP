@@ -1,13 +1,10 @@
-1. 
-  Instalar Node.js
-  Instalar Python 
+# Conexión C++ y HTML
 
-2. 
-  g++ -o cgi-bin/saluda.cgi cgi-bin/saluda.cpp
+1. Instalar Node.js , Instalar Python 
 
-3.
-  python -m http.server --cgi 8000
+2. g++ -o cgi-bin/saluda.cgi cgi-bin/saluda.cpp
 
-4.
-  http://localhost:8000/
+3. python -m http.server --cgi 8000
+
+4. http://localhost:8000/
 
